@@ -83,7 +83,7 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/lewi07/lewi07/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Lewi07/Lewi07/output/snake.svg" alt="Snake animation" />
 
 ---
 
