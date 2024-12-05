@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a passionate Backend Developer with extensive experience in technologies such as PHP, Laravel, WordPress, JavaScript, and more! 🚀 I thrive on solving complex problems and tackling challenging projects. My curiosity to learn new things ensures that I stay updated with the latest advancements in the field. 📚
+  I'm a passionate Web Developer with experience in technologies such as Python, HTML, CSS, XML, and more! 🚀 I love to learn so I can keep improving in this field and become a great Web Developer. 📚
 </h3>
 
 <br><br>
@@ -33,7 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
   </a>
   <a href="https://www.heidisql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heidisql/heidisql-original.svg" alt="heidisql" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" alt="heidisql" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
