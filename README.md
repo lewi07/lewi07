@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2866/2866069.png" width="50" height="50" />
-  Hi! I'm YourName
+  Hi! I'm Luis
 </h1>
 
 <h3 align="center">
@@ -72,18 +72,18 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewi07&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=radical" />
 </p>
 
 <h3 align="left">Top Languages:</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewi07&layout=compact&langs_count=6&theme=radical" />
 </p>
 
 </br>
 
-<img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lewi07/lewi07/output/snake.svg" alt="Snake animation" />
 
 ---
 
@@ -91,6 +91,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> • 
   <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> • 
-  <a href="https://github.com/your-username" target="_blank">GitHub</a> • 
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://github.com/lewi07" target="_blank">GitHub</a> • 
+  <a href="mailto:vargasverdejoluis@gmail.com">Email</a>
 </p>
