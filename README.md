@@ -75,12 +75,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewi07&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=radical" />
 </p>
 
-<h3 align="left">Top Languages:</h3>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lewi07&layout=compact&langs_count=6&theme=radical" />
-</p>
-
 </br>
 
 <img src="https://raw.githubusercontent.com/Hoxuro/Hoxuro/output/snake.svg" alt="Snake animation" />
