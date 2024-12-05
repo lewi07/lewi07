@@ -77,8 +77,6 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/Hoxuro/Hoxuro/output/snake.svg" alt="Snake animation" />
-
 ---
 
 <h3 align="center">Let’s connect! 🤝</h3>
