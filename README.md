@@ -11,9 +11,10 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpMWY4bHB0ODJmeW8wY2k4ZTl2YjllbDZ5OXJyb3I2c2t4ZHFqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-- 📚 Studying Web Application Development
+- 📚 Studying Web Development
 - 🚀 Looking to improve my programming skills
 - 🎂 18 years old
+- 🗣️ Spanish (Native), English (Intermediate)
 
 <br>
 
@@ -54,7 +55,7 @@
 
 <h3 align="center">Contact me! 🤝</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-vargas-verdejo-724230340/" target="_blank">LinkedIn</a>   •   
-  <a href="https://github.com/lewi07" target="_blank">GitHub</a>   •   
+  <a href="https://www.linkedin.com/in/luis-vargas-verdejo-724230340/" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/lewi07" target="_blank">GitHub</a> • 
   <a href="mailto:vargasverdejoluis@gmail.com">Email</a>
 </p>
