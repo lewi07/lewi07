@@ -7,7 +7,7 @@
   I'm a passionate Web Developer with experience in technologies such as Python, HTML, CSS, XML, and more! 🚀 I love to learn so I can keep improving in this field and become a great Web Developer. 📚
 </h3>
 
-<br><br>
+---
 
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpMWY4bHB0ODJmeW8wY2k4ZTl2YjllbDZ5OXJyb3I2c2t4ZHFqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
