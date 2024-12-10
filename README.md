@@ -52,10 +52,9 @@
 
 ---
 
-<h3 align="center">Let’s connect! 🤝</h3>
+<h3 align="center">Contact me! 🤝</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> • 
+  <a href="https://www.linkedin.com/in/luis-vargas-verdejo-724230340/" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/lewi07" target="_blank">GitHub</a> • 
   <a href="mailto:vargasverdejoluis@gmail.com">Email</a>
 </p>
