@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpMWY4bHB0ODJmeW8wY2k4ZTl2YjllbDZ5OXJyb3I2c2t4ZHFqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
-- 🔭 I'm currently working as a Backend Developer at [Your Company] 💼
+- 🖥️ I am currently studying Web Application Development
 - 💬 Ask me about **anything related to web development, PHP, Laravel, or anything tech-related!**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Twitter](https://twitter.com/your-twitter)
 
