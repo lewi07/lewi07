@@ -7,14 +7,14 @@
   I'm a passionate Web Developer with experience in technologies such as Python, HTML, CSS, XML, and more! 🚀 I love to learn so I can keep improving in this field and become a great Web Developer. 📚
 </h3>
 
----
+<br><br>
 
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBpMWY4bHB0ODJmeW8wY2k4ZTl2YjllbDZ5OXJyb3I2c2t4ZHFqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🖥️ I am currently studying Web Application Development
 - 💬 I am 18 years old
 
-</br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-</br>
+<br>
 
 <h3 align="left">GitHub Stats:</h3>
 
@@ -47,7 +47,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lewi07&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=radical" />
 </p>
 
-</br>
+<br>
 
 ---
 
